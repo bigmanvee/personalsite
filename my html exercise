@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My html Exercise</title>
+  </head>
+  <body>
+    <h1>HTML CHALENGE</h1>
+    <hr>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">Link To MDN Documentation</a>
+    <table cellspacing="20">
+      <tr>
+        <td>
+          CHALENGE 1
+        </td>
+        <td>
+          CHALENGE 2
+        </td>
+      </tr>
+      <tr>
+          <td>
+            CHALENGE 3
+          </td>
+          <td>
+            CHALENGE 4
+          </td>
+      </tr>
+    </table>
+  </body>
+</html>
